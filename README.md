@@ -35,19 +35,17 @@ I specialize in building **AI-powered solutions** that are **innovative**, **eff
 - **Objective:** Designed a sensor fusion pipeline to estimate **TTC** using LiDAR, RADAR, and Camera data. 
 - **Tech Stack:** C++, OpenCV, PCL, KD-Tree, Unscented Kalman Filter (UKF)
 - **Impact:** Enhanced **autonomous vehicle safety** by improving **collision prediction accuracy**.
-- 🔗 [Explore the Project](https://gist.github.com/mehul4mak)
+  
 
 ### 🖥️ **AI-Powered Predictive Preconditioning System**
 - **Objective:** Built an AI-driven system that predicts and optimizes user comfort in real-time using sensor data.
 - **Tech Stack:** PyTorch, ResNet, IoT Sensors, NumPy
 - **Impact:** Reduced **energy consumption** while **enhancing user experience**.
-- 🔗 [Explore the Project](https://gist.github.com/mehul4mak)
 
 ### 🏷️ **OCR System for Automated Document Processing**
 - **Objective:** Developed an **OCR pipeline** for extracting structured data from scanned documents.
 - **Tech Stack:** Tesseract OCR, OpenCV, Python
 - **Impact:** Automated **80% of manual data entry**, saving time and resources.
-- 🔗 [Explore the Project](https://gist.github.com/mehul4mak)
 
 Explore more of my work: [GitHub](https://github.com/mehul4mak) 🚀
 

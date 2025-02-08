@@ -1,34 +1,100 @@
 <h1 align="center">Hi 👋, I'm Mehul Kumawat</h1>
-<h3 align="center">A passionate ML/AI Engineer</h3>
+<h3 align="center">Lead Software Engineer | AI/ML Engineer | Computer Vision | Edge AI | Model Optimization</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehul4mak&label=Profile%20views&color=0e75b6&style=flat" alt="mehul4mak" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mehul4mak" target="blank"><img src="https://img.shields.io/twitter/follow/mehul4mak?logo=twitter&style=for-the-badge" alt="mehul4mak" /></a> </p>
-
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
-
-- 👨‍💻 All of my projects are available at [github.com/mehul4mak](github.com/mehul4mak)
-
-- 💬 Ask me about **Python, Tensorflow, OpenCV**
-
-- 📫 How to reach me **mehulkumawat@icloud.com**
-
-- 📄 Know about my experiences [Resume Link](Resume Link)
-
-- ⚡ Fun fact **Strong Analytical Skills**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mehul4mak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehul4mak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/mehulkumawat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mehulkumawat/" height="30" width="40" /></a>
-<a href="https://kaggle.com/mehulkumawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mehulkumawat" height="30" width="40" /></a>
-<a href="https://instagram.com/mehulak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehulak" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehul4mak&label=Profile%20views&color=0e75b6&style=flat" alt="mehul4mak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://twitter.com/mehul4mak" target="blank">
+    <img src="https://img.shields.io/twitter/follow/mehul4mak?logo=twitter&style=for-the-badge" alt="mehul4mak" />
+  </a>
+  <a href="https://www.linkedin.com/in/mehulkumawat/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mehul%20Kumawat-blue?style=for-the-badge" alt="Mehul Kumawat LinkedIn" />
+  </a>
+  <a href="https://github.com/mehul4mak" target="blank">
+    <img src="https://img.shields.io/github/followers/mehul4mak?logo=github&style=for-the-badge" alt="mehul4mak GitHub" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehul4mak&show_icons=true&locale=en&layout=compact" alt="mehul4mak" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehul4mak&show_icons=true&locale=en" alt="mehul4mak" /></p>
+### 🚀 AI Solutions for the Future
 
+I specialize in building **AI-powered solutions** that are **innovative**, **efficient**, and **scalable**, with a focus on **sensor fusion, computer vision**, and **model optimization for edge devices**. I tackle complex challenges, working at the cutting edge of **hardware and AI**, to provide solutions that **transform industries**.
+
+- 🔹 **Expertise:** AI for IoT, Edge AI, LLM Fine-tuning, Model Optimization, Autonomous Systems, and Embedded AI.
+- 🔹 **Innovative Approach:** I thrive in environments where solving tough problems is the norm, and where AI can significantly impact the real world.
+- 🔹 **Open to Collaborations:** Seeking opportunities for **AI consulting**, **custom solutions**, and **transformative tech partnerships**. 
+
+---
+
+## 🌟 Featured Projects
+
+### 🚗 **Sensor Fusion for Time-to-Collision (TTC) Estimation**
+- **Objective:** Designed a sensor fusion pipeline to estimate **TTC** using LiDAR, RADAR, and Camera data. 
+- **Tech Stack:** C++, OpenCV, PCL, KD-Tree, Unscented Kalman Filter (UKF)
+- **Impact:** Enhanced **autonomous vehicle safety** by improving **collision prediction accuracy**.
+- 🔗 [Explore the Project](https://gist.github.com/mehul4mak)
+
+### 🖥️ **AI-Powered Predictive Preconditioning System**
+- **Objective:** Built an AI-driven system that predicts and optimizes user comfort in real-time using sensor data.
+- **Tech Stack:** PyTorch, ResNet, IoT Sensors, NumPy
+- **Impact:** Reduced **energy consumption** while **enhancing user experience**.
+- 🔗 [Explore the Project](https://gist.github.com/mehul4mak)
+
+### 🏷️ **OCR System for Automated Document Processing**
+- **Objective:** Developed an **OCR pipeline** for extracting structured data from scanned documents.
+- **Tech Stack:** Tesseract OCR, OpenCV, Python
+- **Impact:** Automated **80% of manual data entry**, saving time and resources.
+- 🔗 [Explore the Project](https://gist.github.com/mehul4mak)
+
+Explore more of my work: [GitHub](https://github.com/mehul4mak) 🚀
+
+---
+
+## 🔧 Tech Stack & Expertise
+
+- **Programming:** 
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  - ![ONNX](https://img.shields.io/badge/ONNX-0089D6?style=for-the-badge&logo=onnx&logoColor=white)
+
+- **AI/ML:** Deep Learning, Computer Vision, LLM Fine-tuning, Model Optimization
+- **Deployment:** Edge AI, ARM-based AI Acceleration, Model Export (Python → C++), ONNX, Databricks
+- **Cloud & Databases:** 
+  - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  - ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  - ![Pinecone](https://img.shields.io/badge/Pinecone-006F8E?style=for-the-badge&logo=pinecone&logoColor=white)
+  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  - ![PostGIS](https://img.shields.io/badge/PostGIS-3E6600?style=for-the-badge&logo=postgis&logoColor=white)
+  - ![VectorDB](https://img.shields.io/badge/VectorDB-000000?style=for-the-badge&logo=datadog&logoColor=white)
+  
+- **Libraries & Tools:**
+  - ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-08A4E8?style=for-the-badge&logo=llama&logoColor=white)
+  - ![LangChain](https://img.shields.io/badge/LangChain-3E8E41?style=for-the-badge&logo=langchain&logoColor=white)
+  - ![dlib](https://img.shields.io/badge/dlib-193F68?style=for-the-badge&logo=dlib&logoColor=white)
+
+- **IoT & Embedded Systems:** AI for IoT, Embedded Machine Learning, Real-time Sensor Fusion
+
+---
+
+## 📬 Let’s Connect!
+
+📧 Email: mehulkumawat@icloud.com  
+🔗 LinkedIn: [Mehul Kumawat](https://www.linkedin.com/in/mehulkumawat/)  
+🐦 Twitter: [@mehul4mak](https://twitter.com/mehul4mak)  
+📌 Kaggle: [Mehul Kumawat](https://www.kaggle.com/mehulkumawat)  
+
+---
+
+### 🌱 Currently Learning: **Advanced AI/ML techniques** to push the boundaries of Edge AI and Autonomous Systems.
+
+⚡ **Fun Fact:** Problem-solving is my forte, and I excel at turning complex challenges into actionable solutions.
+
+---
+
+### 📌 Let's Build the Future of AI Together!

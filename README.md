@@ -80,7 +80,7 @@ Explore more of my work: [GitHub](https://github.com/mehul4mak) 🚀
 
 ---
 
-## 📬 Let’s Connect!
+## 📬 Contact me!
 
 📧 Email: mehulkumawat@icloud.com  
 🔗 LinkedIn: [Mehul Kumawat](https://www.linkedin.com/in/mehulkumawat/)  
